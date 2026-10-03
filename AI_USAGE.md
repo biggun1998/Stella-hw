@@ -4,9 +4,8 @@ Codex helped:
 
 - Initialize the React project.
 - Create sample GPU product data.
-- Implement cart functionality.
-- Implement the Bootstrap layout.
-- Implement client-side validation.
+- Create implementation template.
 
 Student: 
-- Verifies code base and setup cloud access
+- Pick CSS styling from free site and fit it in the project
+- Verifies code base and setup cloud access.
