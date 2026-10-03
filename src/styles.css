@@ -1,0 +1,23 @@
+body {
+  background: #f5f5f5;
+}
+
+.product-image {
+  height: 180px;
+  object-fit: contain;
+}
+
+.cart-image {
+  width: 100px;
+  height: 70px;
+  object-fit: contain;
+}
+
+.hero {
+  padding: 60px 0;
+  text-align: center;
+}
+
+.account-form {
+  max-width: 480px;
+}

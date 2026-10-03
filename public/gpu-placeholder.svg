@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 200">
+  <title>Generic desktop graphics card</title>
+  <rect x="30" y="40" width="300" height="110" rx="8" fill="#495057" />
+  <rect x="15" y="30" width="15" height="140" fill="#adb5bd" />
+  <g fill="#212529" stroke="#adb5bd" stroke-width="5">
+    <circle cx="120" cy="95" r="38" />
+    <circle cx="240" cy="95" r="38" />
+  </g>
+  <g fill="#adb5bd">
+    <circle cx="120" cy="95" r="12" />
+    <circle cx="240" cy="95" r="12" />
+  </g>
+  <rect x="75" y="150" width="130" height="15" fill="#d4b45c" />
+  <text x="180" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#495057">GPU placeholder</text>
+</svg>
