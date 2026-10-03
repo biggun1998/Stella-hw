@@ -4,300 +4,300 @@
     "manufacturer": "NVIDIA", "series": "RTX 50",
     "price": 1999.99, "vram": "32 GB",
     "description": "RTX 50 desktop graphics card for gaming and computing.",
-    "stock": 5, "image": "/gpu-placeholder.svg"
+    "stock": 5, "image": "/rtx.png"
   },
   {
     "id": 2, "name": "GeForce RTX 5080",
     "manufacturer": "NVIDIA", "series": "RTX 50",
     "price": 999.99, "vram": "16 GB",
     "description": "RTX 50 desktop graphics card for gaming and computing.",
-    "stock": 8, "image": "/gpu-placeholder.svg"
+    "stock": 8, "image": "/rtx.png"
   },
   {
     "id": 3, "name": "GeForce RTX 5070 Ti",
     "manufacturer": "NVIDIA", "series": "RTX 50",
     "price": 749.99, "vram": "16 GB",
     "description": "RTX 50 desktop graphics card for gaming and computing.",
-    "stock": 6, "image": "/gpu-placeholder.svg"
+    "stock": 6, "image": "/rtx.png"
   },
   {
     "id": 4, "name": "GeForce RTX 5070",
     "manufacturer": "NVIDIA", "series": "RTX 50",
     "price": 549.99, "vram": "12 GB",
     "description": "RTX 50 desktop graphics card for gaming and computing.",
-    "stock": 10, "image": "/gpu-placeholder.svg"
+    "stock": 10, "image": "/rtx.png"
   },
   {
     "id": 5, "name": "GeForce RTX 5060 Ti",
     "manufacturer": "NVIDIA", "series": "RTX 50",
     "price": 429.99, "vram": "16 GB",
     "description": "RTX 50 desktop graphics card for gaming and computing.",
-    "stock": 12, "image": "/gpu-placeholder.svg"
+    "stock": 12, "image": "/rtx.png"
   },
   {
     "id": 6, "name": "GeForce RTX 5060",
     "manufacturer": "NVIDIA", "series": "RTX 50",
     "price": 299.99, "vram": "8 GB",
     "description": "RTX 50 desktop graphics card for gaming and computing.",
-    "stock": 15, "image": "/gpu-placeholder.svg"
+    "stock": 15, "image": "/rtx.png"
   },
   {
     "id": 7, "name": "GeForce RTX 5050",
     "manufacturer": "NVIDIA", "series": "RTX 50",
     "price": 249.99, "vram": "8 GB",
     "description": "RTX 50 desktop graphics card for gaming and computing.",
-    "stock": 18, "image": "/gpu-placeholder.svg"
+    "stock": 18, "image": "/rtx.png"
   },
   {
     "id": 8, "name": "GeForce RTX 4090",
     "manufacturer": "NVIDIA", "series": "RTX 40",
     "price": 1599.99, "vram": "24 GB",
     "description": "RTX 40 desktop graphics card for gaming and computing.",
-    "stock": 3, "image": "/gpu-placeholder.svg"
+    "stock": 3, "image": "/rtx40.jpg"
   },
   {
     "id": 9, "name": "GeForce RTX 4080 SUPER",
     "manufacturer": "NVIDIA", "series": "RTX 40",
     "price": 999.99, "vram": "16 GB",
     "description": "RTX 40 desktop graphics card for gaming and computing.",
-    "stock": 6, "image": "/gpu-placeholder.svg"
+    "stock": 6, "image": "/rtx40.jpg"
   },
   {
     "id": 10, "name": "GeForce RTX 4080",
     "manufacturer": "NVIDIA", "series": "RTX 40",
     "price": 899.99, "vram": "16 GB",
     "description": "RTX 40 desktop graphics card for gaming and computing.",
-    "stock": 4, "image": "/gpu-placeholder.svg"
+    "stock": 4, "image": "/rtx40.jpg"
   },
   {
     "id": 11, "name": "GeForce RTX 4070 Ti SUPER",
     "manufacturer": "NVIDIA", "series": "RTX 40",
     "price": 799.99, "vram": "16 GB",
     "description": "RTX 40 desktop graphics card for gaming and computing.",
-    "stock": 7, "image": "/gpu-placeholder.svg"
+    "stock": 7, "image": "/rtx40.jpg"
   },
   {
     "id": 12, "name": "GeForce RTX 4070 Ti",
     "manufacturer": "NVIDIA", "series": "RTX 40",
     "price": 699.99, "vram": "12 GB",
     "description": "RTX 40 desktop graphics card for gaming and computing.",
-    "stock": 5, "image": "/gpu-placeholder.svg"
+    "stock": 5, "image": "/rtx40.jpg"
   },
   {
     "id": 13, "name": "GeForce RTX 4070 SUPER",
     "manufacturer": "NVIDIA", "series": "RTX 40",
     "price": 599.99, "vram": "12 GB",
     "description": "RTX 40 desktop graphics card for gaming and computing.",
-    "stock": 8, "image": "/gpu-placeholder.svg"
+    "stock": 8, "image": "/rtx40.jpg"
   },
   {
     "id": 14, "name": "GeForce RTX 4070",
     "manufacturer": "NVIDIA", "series": "RTX 40",
     "price": 499.99, "vram": "12 GB",
     "description": "RTX 40 desktop graphics card for gaming and computing.",
-    "stock": 10, "image": "/gpu-placeholder.svg"
+    "stock": 10, "image": "/rtx40.jpg"
   },
   {
     "id": 15, "name": "GeForce RTX 4060 Ti",
     "manufacturer": "NVIDIA", "series": "RTX 40",
     "price": 349.99, "vram": "8 GB",
     "description": "RTX 40 desktop graphics card for gaming and computing.",
-    "stock": 12, "image": "/gpu-placeholder.svg"
+    "stock": 12, "image": "/rtx40.jpg"
   },
   {
     "id": 16, "name": "GeForce RTX 4060",
     "manufacturer": "NVIDIA", "series": "RTX 40",
     "price": 279.99, "vram": "8 GB",
     "description": "RTX 40 desktop graphics card for gaming and computing.",
-    "stock": 14, "image": "/gpu-placeholder.svg"
+    "stock": 14, "image": "/rtx40.jpg"
   },
   {
     "id": 17, "name": "GeForce RTX 3090 Ti",
     "manufacturer": "NVIDIA", "series": "RTX 30",
     "price": 1099.99, "vram": "24 GB",
     "description": "RTX 30 desktop graphics card for gaming and computing.",
-    "stock": 0, "image": "/gpu-placeholder.svg"
+    "stock": 0, "image": "/rtx40.jpg"
   },
   {
     "id": 18, "name": "GeForce RTX 3090",
     "manufacturer": "NVIDIA", "series": "RTX 30",
     "price": 899.99, "vram": "24 GB",
     "description": "RTX 30 desktop graphics card for gaming and computing.",
-    "stock": 2, "image": "/gpu-placeholder.svg"
+    "stock": 2, "image": "/rtx40.jpg"
   },
   {
     "id": 19, "name": "GeForce RTX 3080 Ti",
     "manufacturer": "NVIDIA", "series": "RTX 30",
     "price": 649.99, "vram": "12 GB",
     "description": "RTX 30 desktop graphics card for gaming and computing.",
-    "stock": 4, "image": "/gpu-placeholder.svg"
+    "stock": 4, "image": "/rtx40.jpg"
   },
   {
     "id": 20, "name": "GeForce RTX 3080",
     "manufacturer": "NVIDIA", "series": "RTX 30",
     "price": 549.99, "vram": "10 GB",
     "description": "RTX 30 desktop graphics card for gaming and computing.",
-    "stock": 5, "image": "/gpu-placeholder.svg"
+    "stock": 5, "image": "/rtx40.jpg"
   },
   {
     "id": 21, "name": "GeForce RTX 3070 Ti",
     "manufacturer": "NVIDIA", "series": "RTX 30",
     "price": 449.99, "vram": "8 GB",
     "description": "RTX 30 desktop graphics card for gaming and computing.",
-    "stock": 6, "image": "/gpu-placeholder.svg"
+    "stock": 6, "image": "/rtx40.jpg"
   },
   {
     "id": 22, "name": "GeForce RTX 3070",
     "manufacturer": "NVIDIA", "series": "RTX 30",
     "price": 399.99, "vram": "8 GB",
     "description": "RTX 30 desktop graphics card for gaming and computing.",
-    "stock": 8, "image": "/gpu-placeholder.svg"
+    "stock": 8, "image": "/rtx40.jpg"
   },
   {
     "id": 23, "name": "GeForce RTX 3060 Ti",
     "manufacturer": "NVIDIA", "series": "RTX 30",
     "price": 329.99, "vram": "8 GB",
     "description": "RTX 30 desktop graphics card for gaming and computing.",
-    "stock": 9, "image": "/gpu-placeholder.svg"
+    "stock": 9, "image": "/rtx40.jpg"
   },
   {
     "id": 24, "name": "GeForce RTX 3060",
     "manufacturer": "NVIDIA", "series": "RTX 30",
     "price": 249.99, "vram": "12 GB",
     "description": "RTX 30 desktop graphics card for gaming and computing.",
-    "stock": 12, "image": "/gpu-placeholder.svg"
+    "stock": 12, "image": "/rtx40.jpg"
   },
   {
     "id": 25, "name": "GeForce RTX 3050",
     "manufacturer": "NVIDIA", "series": "RTX 30",
     "price": 179.99, "vram": "8 GB",
     "description": "RTX 30 desktop graphics card for gaming and computing.",
-    "stock": 15, "image": "/gpu-placeholder.svg"
+    "stock": 15, "image": "/rtx40.jpg"
   },
   {
     "id": 26, "name": "GeForce RTX 2080 Ti",
     "manufacturer": "NVIDIA", "series": "RTX 20",
     "price": 449.99, "vram": "11 GB",
     "description": "RTX 20 desktop graphics card for gaming and computing.",
-    "stock": 2, "image": "/gpu-placeholder.svg"
+    "stock": 2, "image": "/rtx20.png"
   },
   {
     "id": 27, "name": "GeForce RTX 2080 SUPER",
     "manufacturer": "NVIDIA", "series": "RTX 20",
     "price": 349.99, "vram": "8 GB",
     "description": "RTX 20 desktop graphics card for gaming and computing.",
-    "stock": 3, "image": "/gpu-placeholder.svg"
+    "stock": 3, "image": "/rtx20.png"
   },
   {
     "id": 28, "name": "GeForce RTX 2080",
     "manufacturer": "NVIDIA", "series": "RTX 20",
     "price": 299.99, "vram": "8 GB",
     "description": "RTX 20 desktop graphics card for gaming and computing.",
-    "stock": 0, "image": "/gpu-placeholder.svg"
+    "stock": 0, "image": "/rtx20.png"
   },
   {
     "id": 29, "name": "GeForce RTX 2070 SUPER",
     "manufacturer": "NVIDIA", "series": "RTX 20",
     "price": 279.99, "vram": "8 GB",
     "description": "RTX 20 desktop graphics card for gaming and computing.",
-    "stock": 4, "image": "/gpu-placeholder.svg"
+    "stock": 4, "image": "/rtx20.png"
   },
   {
     "id": 30, "name": "GeForce RTX 2070",
     "manufacturer": "NVIDIA", "series": "RTX 20",
     "price": 249.99, "vram": "8 GB",
     "description": "RTX 20 desktop graphics card for gaming and computing.",
-    "stock": 5, "image": "/gpu-placeholder.svg"
+    "stock": 5, "image": "/rtx20.png"
   },
   {
     "id": 31, "name": "GeForce RTX 2060 SUPER",
     "manufacturer": "NVIDIA", "series": "RTX 20",
     "price": 229.99, "vram": "8 GB",
     "description": "RTX 20 desktop graphics card for gaming and computing.",
-    "stock": 6, "image": "/gpu-placeholder.svg"
+    "stock": 6, "image": "/rtx20.png"
   },
   {
     "id": 32, "name": "GeForce RTX 2060",
     "manufacturer": "NVIDIA", "series": "RTX 20",
     "price": 199.99, "vram": "6 GB",
     "description": "RTX 20 desktop graphics card for gaming and computing.",
-    "stock": 8, "image": "/gpu-placeholder.svg"
+    "stock": 8, "image": "/rtx20.png"
   },
   {
     "id": 33, "name": "Radeon RX 9070 XT",
     "manufacturer": "AMD", "series": "RX 9000",
     "price": 599.99, "vram": "16 GB",
     "description": "RX 9000 desktop graphics card for gaming and computing.",
-    "stock": 8, "image": "/gpu-placeholder.svg"
+    "stock": 8, "image": "/amdrx.jpg"
   },
   {
     "id": 34, "name": "Radeon RX 9070",
     "manufacturer": "AMD", "series": "RX 9000",
     "price": 549.99, "vram": "16 GB",
     "description": "RX 9000 desktop graphics card for gaming and computing.",
-    "stock": 10, "image": "/gpu-placeholder.svg"
+    "stock": 10, "image": "/amdrx.jpg"
   },
   {
     "id": 35, "name": "Radeon RX 9070 GRE",
     "manufacturer": "AMD", "series": "RX 9000",
     "price": 499.99, "vram": "12 GB",
     "description": "RX 9000 desktop graphics card for gaming and computing.",
-    "stock": 6, "image": "/gpu-placeholder.svg"
+    "stock": 6, "image": "/amdrx.jpg"
   },
   {
     "id": 36, "name": "Radeon RX 9060 XT",
     "manufacturer": "AMD", "series": "RX 9000",
     "price": 349.99, "vram": "16 GB",
     "description": "RX 9000 desktop graphics card for gaming and computing.",
-    "stock": 12, "image": "/gpu-placeholder.svg"
+    "stock": 12, "image": "/amdrx.jpg"
   },
   {
     "id": 37, "name": "Radeon RX 7900 XTX",
     "manufacturer": "AMD", "series": "RX 7000",
     "price": 899.99, "vram": "24 GB",
     "description": "RX 7000 desktop graphics card for gaming and computing.",
-    "stock": 4, "image": "/gpu-placeholder.svg"
+    "stock": 4, "image": "/amdrx.jpg"
   },
   {
     "id": 38, "name": "Radeon RX 7900 XT",
     "manufacturer": "AMD", "series": "RX 7000",
     "price": 699.99, "vram": "20 GB",
     "description": "RX 7000 desktop graphics card for gaming and computing.",
-    "stock": 5, "image": "/gpu-placeholder.svg"
+    "stock": 5, "image": "/amdrx.jpg"
   },
   {
     "id": 39, "name": "Radeon RX 7900 GRE",
     "manufacturer": "AMD", "series": "RX 7000",
     "price": 499.99, "vram": "16 GB",
     "description": "RX 7000 desktop graphics card for gaming and computing.",
-    "stock": 7, "image": "/gpu-placeholder.svg"
+    "stock": 7, "image": "/amdrx.jpg"
   },
   {
     "id": 40, "name": "Radeon RX 7800 XT",
     "manufacturer": "AMD", "series": "RX 7000",
     "price": 449.99, "vram": "16 GB",
     "description": "RX 7000 desktop graphics card for gaming and computing.",
-    "stock": 8, "image": "/gpu-placeholder.svg"
+    "stock": 8, "image": "/amdrx.jpg"
   },
   {
     "id": 41, "name": "Radeon RX 7700 XT",
     "manufacturer": "AMD", "series": "RX 7000",
     "price": 379.99, "vram": "12 GB",
     "description": "RX 7000 desktop graphics card for gaming and computing.",
-    "stock": 10, "image": "/gpu-placeholder.svg"
+    "stock": 10, "image": "/amdrx.jpg"
   },
   {
     "id": 42, "name": "Radeon RX 7600 XT",
     "manufacturer": "AMD", "series": "RX 7000",
     "price": 299.99, "vram": "16 GB",
     "description": "RX 7000 desktop graphics card for gaming and computing.",
-    "stock": 12, "image": "/gpu-placeholder.svg"
+    "stock": 12, "image": "/amdrx.jpg"
   },
   {
     "id": 43, "name": "Radeon RX 7600",
     "manufacturer": "AMD", "series": "RX 7000",
     "price": 249.99, "vram": "8 GB",
     "description": "RX 7000 desktop graphics card for gaming and computing.",
-    "stock": 15, "image": "/gpu-placeholder.svg"
+    "stock": 15, "image": "/amdrx.jpg"
   }
 ]
